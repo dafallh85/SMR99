@@ -13,6 +13,6 @@
 - **Telegram (Community):** [https://t.me/SMR990000](https://t.me/SMR990000)
 - **Telegram (Channel):** [https://t.me/SMR99000](https://t.me/SMR99000)
 - **Twitter (X):** [https://x.com/smr990000](https://x.com/smr990000)
-
+📬 Telegram Contact: https://t.me/Token_Officer
 ## Description
 A vibrant community mixing Chinese, Japanese & Korean cultures — where memes, pop fun, and hype never stop! 🚀

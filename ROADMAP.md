@@ -1,3 +1,11 @@
+🚀 SMR99 Project Roadmap
+
+Roadmap 2026 – 2030
+
+Project Description
+
+“A vibrant collection of Korean pop culture 🌏✨ SMR99 is your gateway to a new era of expressive writing and fun chasing 🎭🔥”
+
 # SMR99 – Official Roadmap
 # Period: 2026–2030
 

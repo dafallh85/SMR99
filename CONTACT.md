@@ -16,3 +16,4 @@ https://x.com/smr990000
 
 ## 💻 GitHub
 https://github.com/dafallh85/SMR99
+ **linkedin :https://www.linkedin.com/in/smr-smr-92042339a/

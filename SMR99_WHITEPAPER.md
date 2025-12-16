@@ -202,7 +202,7 @@ SMR99 is developed by a team of professionals in AI, blockchain, design, and dig
 	•	🛠 GitHub: https://github.com/dafallh85/SMR99
 	•	🔗 BscScan: https://bscscan.com/token/0xd21134b637893e293B0e47fD4e4E7493A009B5fE
 	•	📬 Contact (Telegram): https://t.me/Token_Officer
-
+      linkedin :https://www.linkedin.com/in/smr-smr-92042339a/
 
 
 6. Tokenomics

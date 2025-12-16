@@ -14,10 +14,9 @@
 - **Telegram (Channel):** [https://t.me/SMR99000](https://t.me/SMR99000)
 - **Twitter (X):** [https://x.com/smr990000](https://x.com/smr990000)
 📬 Telegram Contact: https://t.me/Token_Officer
+- **linkedin :https://www.linkedin.com/in/smr-smr-92042339a/
+- **bscscan :https://bscscan.com/token/0xd21134b637893e293B0e47fD4e4E7493A009B5fE
 
-_ https://www.linkedin.com/in/smr-smr-92042339a/
-
-https://bscscan.com/token/0xd21134b637893e293B0e47fD4e4E7493A009B5fE
 
 
 ## Description

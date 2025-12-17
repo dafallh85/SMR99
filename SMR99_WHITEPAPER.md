@@ -199,7 +199,7 @@ SMR99 is developed by a team of professionals in AI, blockchain, design, and dig
 	•	🌀 Telegram Community: https://t.me/SMR990000
 	•	📣 Telegram Channel: https://t.me/SMR99000
 	•	✖️ X (Twitter): https://x.com/smr990000
-	•	🛠 GitHub: https://github.com/dafallh85/SMR99
+	•	🛠 GitHub: https://github.com/dafallh85/SMR99.git
 	•	🔗 BscScan: https://bscscan.com/token/0xd21134b637893e293B0e47fD4e4E7493A009B5fE
 	•	📬 Contact (Telegram): https://t.me/Token_Officer
       linkedin :https://www.linkedin.com/in/smr-smr-92042339a/

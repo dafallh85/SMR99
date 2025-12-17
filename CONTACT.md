@@ -15,5 +15,5 @@ https://x.com/smr990000
 - Direct Contact Officer: https://t.me/Token_Officer
 
 ## 💻 GitHub
-https://github.com/dafallh85/SMR99
+https://github.com/dafallh85/SMR99.git
  **linkedin :https://www.linkedin.com/in/smr-smr-92042339a/

@@ -24,4 +24,6 @@ and transparent token operations with plans for future DeFi integrations.
 
 
 ## Description
-A vibrant community mixing Chinese, Japanese & Korean cultures — where memes, pop fun, and hype never stop! 🚀
+ SMR99 is a BEP-20 utility token on Binance Smart Chain (BSC). 
+It focuses on community engagement, on-chain interactions, 
+and transparent token operations with plans for future DeFi integrations.🚀

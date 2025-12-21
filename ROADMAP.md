@@ -1,8 +1,8 @@
 🚀 SMR99 Project Roadmap
 
-Project Description
-
-“A vibrant collection of Korean pop culture 🌏✨ SMR99 is your gateway to a new era of expressive writing and fun chasing 🎭🔥”
+SMR99 is a BEP-20 utility token on Binance Smart Chain (BSC). 
+It focuses on community engagement, on-chain interactions, 
+and transparent token operations with plans for future DeFi integrations.🎭🔥”
 
 # SMR99 – Official Roadmap
 # Period: 2026–2030

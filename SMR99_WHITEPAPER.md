@@ -14,9 +14,9 @@ https://bscscan.com/token/0xd21134b637893e293B0e47fD4e4E7493A009B5fE
 
 1. Introduction
 
-SMR99 is a next-generation digital token inspired by vivid Korean pop culture and expressive global art.
-It represents a new wave of decentralized creativity by merging entertainment, writing, digital expression, and blockchain utility into one ecosystem.
-
+SMR99 is a BEP-20 utility token on Binance Smart Chain (BSC). 
+It focuses on community engagement, on-chain interactions, 
+and transparent token operations with plans for future DeFi integrations.
 SMR99 is your gateway to a new era of expressive writing, cultural creativity, and fun-driven digital experiences.
 
 The project aims to build a digital community centered around creativity, rewards, entertainment, and cultural content — fully powered by blockchain.

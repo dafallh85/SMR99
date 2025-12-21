@@ -1,6 +1,10 @@
 # SMR99 Token
 
-**SMR99** is a BEP-20 token on BNB Smart Chain blending pop culture, memes, and community fun.
+**SMR99** # 
+
+SMR99 is a BEP-20 utility token deployed on Binance Smart Chain (BSC). 
+The project focuses on community-driven engagement, on-chain interactions, 
+and transparent token operations with plans for future DeFi integrations.
 
 - **Name:** SMR99
 - **Symbol:** SMR99

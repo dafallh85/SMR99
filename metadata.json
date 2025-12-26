@@ -1,11 +1,7 @@
 {
   "name": "SMR99",
   "symbol": "SMR99",
-  "description": "SMR99 – A fun, engaging, and rewarding crypto project built on BNB Smart Chain.",
-  "contract_address": "0xd21134b637893e293B0e47fD4e4E7493A009B5fE",
-  "decimals": 18,
-  "website": "https://smr99.com/",
-  "telegram": "https://t.me/SMR99",
-  "twitter": "https://x.com/SMR99",
-  "logo": "logo.png"
+  "type": "BEP-20",
+  "network": "BNB Smart Chain",
+  "description": "BEP-20 token smart contract for educational and development purposes."
 }

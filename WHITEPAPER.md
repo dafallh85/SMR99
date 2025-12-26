@@ -9,7 +9,7 @@ Launch Date: January 6, 2025
 Blockchain: BNB Smart Chain (BEP-20)
 Total Supply: 1,000,000,000 SMR99
 Smart Contract:
-https://bscscan.com/token/0xd21134b637893e293B0e47fD4e4E7493A009B5fE
+token/0xd21134b637893e293B0e47fD4e4E7493A009B5fE
 
 ⸻
 
@@ -178,12 +178,3 @@ SMR99 is developed by a multidisciplinary team with expertise in blockchain, AI,
 
 ⸻
 
-🔗 Official Links
-	•	🌐 Website: https://smr99.com
-	•	📩 Email: smr99@smr99.com
-	•	🌀 Telegram Community: https://t.me/SMR990000
-	•	📣 Telegram Channel: https://t.me/SMR99000
-	•	✖️ X (Twitter): https://x.com/smr990000
-	•	🛠 GitHub: https://github.com/dafallh85/SMR99.git
-	•	🔗 BscScan: Contract link above
-	•	📬 Telegram Contact: https://t.me/Token_Officer

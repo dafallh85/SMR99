@@ -1,22 +1,34 @@
-# SMR99 Token
+# SMR99 Nexus 🚀
 
-**SMR99** # 
+SMR99 Nexus is an AI-powered Reward & Reputation Protocol built on the BNB Chain.  
+It is designed to reward real users for genuine engagement across Web3 platforms.
 
-SMR99 is a BEP-20 utility token deployed on Binance Smart Chain (BSC). 
-The project focuses on community-driven engagement, on-chain interactions, 
-and transparent token operations with plans for future DeFi integrations.
+## 💡 Overview
+SMR99 Nexus combines artificial intelligence, blockchain transparency, and community-driven systems to eliminate fake engagement and promote real participation.
 
-- **Name:** SMR99
-- **Symbol:** SMR99
-- **Contract:** `0xd21134b637893e293B0e47fD4e4E7493A009B5fE`
-- **Decimals:** 18
-- **Total Supply:** 1,000,000,000 SMR99
-- **Network:** BNB Smart Chain (BEP-20)
-token/0xd21134b637893e293B0e47fD4e4E7493A009B5fE
+## 🔑 Key Features
+- 🤖 AI-based user reputation scoring  
+- 📊 Real engagement tracking  
+- 🎮 Reward system for tasks and activity  
+- 🗳 DAO governance model  
+- 💎 Staking for long-term incentives  
 
+## 🎯 Mission
+To build a transparent and fair ecosystem where users are rewarded for real contributions, not bots or fake activity.
 
+## 🌐 Ecosystem
+SMR99 powers a growing Web3 environment focused on:
+- Community engagement  
+- Reward distribution  
+- Decentralized participation  
 
-## Description
- SMR99 is a BEP-20 utility token on Binance Smart Chain (BSC). 
-It focuses on community engagement, on-chain interactions, 
-and transparent token operations with plans for future DeFi integrations.🚀
+## 🔒 Security
+Built on blockchain transparency with a focus on trust, clarity, and sustainability.
+
+## 🚀 Vision
+To become a leading AI-driven reward protocol shaping the future of Web3 communities.
+
+---
+
+Join the community:  
+https://t.me/SMR99000

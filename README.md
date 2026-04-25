@@ -1,34 +1,79 @@
 # SMR99 Nexus 🚀
 
-SMR99 Nexus is an AI-powered Reward & Reputation Protocol built on the BNB Chain.  
-It is designed to reward real users for genuine engagement across Web3 platforms.
+AI-powered Reward & Reputation Protocol on BNB Chain
+
+---
 
 ## 💡 Overview
-SMR99 Nexus combines artificial intelligence, blockchain transparency, and community-driven systems to eliminate fake engagement and promote real participation.
+SMR99 Nexus is a next-generation Web3 protocol designed to reward real users for genuine engagement.  
+It combines AI, blockchain transparency, and community-driven systems.
+
+---
 
 ## 🔑 Key Features
 - 🤖 AI-based user reputation scoring  
 - 📊 Real engagement tracking  
-- 🎮 Reward system for tasks and activity  
-- 🗳 DAO governance model  
-- 💎 Staking for long-term incentives  
-
-## 🎯 Mission
-To build a transparent and fair ecosystem where users are rewarded for real contributions, not bots or fake activity.
-
-## 🌐 Ecosystem
-SMR99 powers a growing Web3 environment focused on:
-- Community engagement  
-- Reward distribution  
-- Decentralized participation  
-
-## 🔒 Security
-Built on blockchain transparency with a focus on trust, clarity, and sustainability.
-
-## 🚀 Vision
-To become a leading AI-driven reward protocol shaping the future of Web3 communities.
+- 🎮 Task & reward system  
+- 🗳 DAO governance  
+- 💎 Staking mechanism  
 
 ---
 
-Join the community:  
-https://t.me/SMR99000
+## 🎯 Mission
+To eliminate fake engagement and build real, transparent Web3 communities.
+
+---
+
+## 🚀 Vision
+To become a leading AI-powered reward protocol in Web3.
+
+---
+
+## 🧠 How It Works
+Users interact through tasks, social activity, and platform engagement.  
+AI analyzes behavior and assigns a reputation score.  
+Rewards are distributed based on real participation.
+
+---
+
+## 💰 Token Utility
+- Rewards  
+- Staking  
+- Governance  
+- Premium access  
+
+---
+
+## 📊 Tokenomics
+Total Supply: 1,000,000,000 SMR99  
+
+- 30% Rewards  
+- 25% Liquidity  
+- 20% Development  
+- 15% Marketing  
+- 10% Team  
+
+---
+
+## 🗺 Roadmap
+See roadmap.md
+
+---
+
+## 📜 Whitepaper
+See whitepaper.md
+
+---
+
+## 🤝 Community
+Telegram: https://t.me/SMR99000  
+
+---
+
+## 🔒 Security
+Transparent smart contract with community-driven development.
+
+---
+
+## ⚠️ Disclaimer
+This project is for educational and development purposes. Always do your own research

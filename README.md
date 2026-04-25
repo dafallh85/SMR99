@@ -66,7 +66,7 @@ See whitepaper.md
 ---
 
 ## 🤝 Community
-Telegram: https://t.me/SMR99000  
+Telegram:
 
 ---
 
